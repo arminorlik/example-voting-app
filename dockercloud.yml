@@ -30,4 +30,4 @@ worker:
   autoredeploy: true
   image: 'docker/example-voting-app-worker:latest'
   restart: always
-  target_num_containers: 3
+  target_num_containers: 4
